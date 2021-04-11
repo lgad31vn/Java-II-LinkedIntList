@@ -1,3 +1,7 @@
+/* Nam Phu Nguyen (Logan)
+   IT220-JAVA II 
+   Programing Assignment
+ */ 
 public class LinkedIntList {
     private ListNode front;
     private int size;
